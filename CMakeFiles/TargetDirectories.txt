@@ -1,2 +1,0 @@
-/home/bogdan/lab04-master/CMakeFiles/rebuild_cache.dir
-/home/bogdan/lab04-master/CMakeFiles/edit_cache.dir
